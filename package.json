@@ -1,0 +1,18 @@
+{
+  "name": "parcel-wasm-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "build": "parcel build --no-cache src/index.html",
+    "dev": "parcel src/index.html",
+    "predev": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
