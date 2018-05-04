@@ -1,5 +1,5 @@
 [package]
-name = "parcel_wasm_skeleton"
+name = "wasm_dev_book_parcel"
 version = "0.1.0"
 authors = ["mizdra <pp.mizdra@gmail.com>"]
 

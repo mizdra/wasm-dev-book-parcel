@@ -1,7 +1,7 @@
 {
-  "name": "parcel-wasm-skeleton",
+  "name": "wasm-dev-book-parcel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Parcelを使ったWebAssemblyの開発環境.",
   "main": "index.js",
   "scripts": {
     "start": "npm run dev",
